@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CustomListTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-09-25T16:53:14" hostname="ruby" time="0.005">
+  <properties/>
+  <testcase name="givenListWithAnElement_whenAnotherIsAdded_thenGetReturnsBoth" classname="CustomListTest" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
